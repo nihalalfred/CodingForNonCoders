@@ -4,7 +4,7 @@
 
 Chips speaks 1s and 0s (Binary code)
 
-* < Insert> Image 1*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%201.png" height="600" width="1000" >
 
 # **Different Execution Models**
 
@@ -14,11 +14,11 @@ Chips speaks 1s and 0s (Binary code)
 
 It basically takes the english readable files and then converts it into readable binary code that can be understood by the chip or the processor
 
-* < Insert> Image 2*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%202.png" height="600" width="1000" >
 
 ## Complied Code
 
-* < Insert> Image 3*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%203.png" height="600" width="1000" >
 
 > 💡 **Compiler converts the source code file into an executable file that can run instructions much faster than an interpreter would do.**
 
@@ -30,9 +30,9 @@ The source code file, the intermediate compiler and the intermediate file will b
 
 Then this intermediate file will be sent on the CI/CD for example, compile it specific to CPU/system/platform and then execute it.
 
-* < Insert> Image 4*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%204.png" height="600" width="1000" >
 
-* < Insert> Image 5*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%205.png" height="600" width="1000" >
 
 ### Broad Types of programming languages
 
@@ -44,7 +44,7 @@ Then this intermediate file will be sent on the CI/CD for example, compile it sp
 
 ## **Classes**
 
-* < Insert> Image 6*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%206.png" height="600" width="1000" >
 
 > 💡 **Class is a thing/noun that represents something about the system you are writing.***
 
@@ -56,15 +56,15 @@ In the above example. The base class is animal which has the properties of weigh
 
 A subclass which is a bird and dog has its own unique properties and behaviours like Bird can fly and a Dog can bark apart from the main behaviour which is to move and breathe. Apart from that the properties is unique for these sub classes as well which includes for example for a Bird it has a wingspan and for a Dog it is fur type which is unique to this subclass.
 
-* < Insert> Image 7*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%207.png" height="600" width="1000" >
 
-* < Insert> Image 8*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%208.png" height="600" width="1000" >
 
-* < Insert> Image 9*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%209.png" height="600" width="1000" >
 
 > 💡 **Behaviours are methods**
 
-* < Insert> Image 10*
+> <img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%2010.png" height="600" width="1000" >
 
 ### Summary
 
@@ -81,11 +81,10 @@ Recommended books
 
 - What every programer should know about object oriented design - Meilir Page Jones
 - Heat First Object Oriented Analytics and Design
-
-* < Insert> Image 11*
-
 - Clean Code - Robert C Martin
 - Refactoring - Martin Fowler
 
-* < Insert> Image 12*
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%2011.png" height="600" width="1000" >
+
+<img src="https://github.com/nihalalfred/CodingForNonCoders/blob/main/Screenshots/Lesson%202%20-%20Image%2012.png" height="600" width="1000" >
 
